@@ -1,7 +1,7 @@
 import os,datetime,shutil,time
 
 target='IND_FAN_DATA_25T'
-backup=r'\\CN-S-GFSFS01P.cn.abb.com\DM$\DMMG\CNBAL\MPT Engineering\R&D\03-R&D Reports\00-CAE Report\CN20-2020\ind_fan_testdata'
+backup=r'\\服务器\ind_fan_testdata'
 
 # target='target'
 # backup='backup'
